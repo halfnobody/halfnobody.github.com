@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: daily reports | Half Nobody]]></title>
+  <link href="http://halfnobody.github.com/blog/categories/daily-reports/atom.xml" rel="self"/>
+  <link href="http://halfnobody.github.com/"/>
+  <updated>2013-01-01T22:53:32-08:00</updated>
+  <id>http://halfnobody.github.com/</id>
+  <author>
+    <name><![CDATA[Half Nobody]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Report: Day 1]]></title>
+    <link href="http://halfnobody.github.com/blog/2013/01/01/report-day-1/"/>
+    <updated>2013-01-01T22:44:00-08:00</updated>
+    <id>http://halfnobody.github.com/blog/2013/01/01/report-day-1</id>
+    <content type="html"><![CDATA[<h4>Weight: 235.2</h4>
+
+<p>I didn't accomplish much today. I have a bit of a cold and I had the day off. I got this blog up and running and I helped take down Christmas decorations, but other than that, I just stayed in bed reading things on the internet and watching TV all day. I also did a fair amount of thinking about my goals which I will write about in another post. That is all.</p>
+]]></content>
+  </entry>
+  
+</feed>
